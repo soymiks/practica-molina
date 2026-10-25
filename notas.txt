@@ -1,0 +1,5 @@
+Práctica de Git y GitHub.
+Estoy aprendiendo a utilizar Git.
+Git permite controlar versiones.
+GitHub permite compartir repositorios.
+Los commits guardan los cambios realizados.
